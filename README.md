@@ -1,5 +1,5 @@
-# 💫 About Me:
-Exploring Python, Flask, Machine Learning & Web Development<br>- 🌾 Currently building **Sarthak Krishi**, an agriculture support platform with crop recommendation & chatbot (Gemini API)<br>- 🎓 Completed IIT Madras Programming & Data Science diplomas<br>- 💡 Product Manager for a Life Skills App project (Vue.js + Flask)<br>- 🤖 Love working on real-world data: facial recognition, malware prediction, inventory analytics
+# About Me:
+Exploring Python, Flask, Machine Learning & Web Development<br>- 🌾 Worked on Major Project - **Sarthak Krishi**, an agriculture support platform with crop recommendation & chatbot (Gemini API)<br>- 🎓 Completed IIT Madras Programming & Data Science diplomas<br>- 💡 Team Lead for a Software Engineering Project - a Life Skills App project (Vue.js + Flask)<br>- 🤖 Love working on real-world data: facial recognition, malware prediction, inventory analytics
 
 
 # 💻 Tech Stack:
